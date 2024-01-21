@@ -1,0 +1,4 @@
+# Godot 4+ specific ignores
+.godot/
+KayKit_Adventurers_1.0_FREE/
+Models/
